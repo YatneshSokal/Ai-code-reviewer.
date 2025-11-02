@@ -1,0 +1,3 @@
+🧠 AI Code Reviewer — Intelligent Code Review App
+
+This project is a full-stack web application built to help developers automatically review their code using AI. It analyzes syntax, detects logic errors, and provides real-time improvement suggestions. The frontend is developed using React.js, offering a clean and responsive interface, while the backend is powered by Node.js, Express, and MongoDB for secure data management and authentication. Integrated the Gemini AI API to generate intelligent insights and feedback on code quality. Deployed on Render, the app enables users to upload, analyze, and refine their programs efficiently. This project strengthened my skills in MERN stack development, API integration, and AI-assisted problem-solving.
